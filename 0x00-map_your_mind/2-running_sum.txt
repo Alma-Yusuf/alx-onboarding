@@ -1,0 +1,8 @@
+1.program start
+2.Create a loop
+3.get your input (number)
+4.check if input is below 0
+5.if true stop program & return sum
+6.else
+7.add input to sum
+8. repeat
